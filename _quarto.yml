@@ -12,6 +12,8 @@ website:
         text: Publications
       - href: documents/cv.pdf
         text: CV
+      - href: https://agarwal-mihir.github.io/blogs/
+        text: Blogs
 
 format:
   html:
