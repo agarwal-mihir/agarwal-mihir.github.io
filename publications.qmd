@@ -1,13 +1,15 @@
 ---
-title: "Publications"
+title: "Publications And Presentations"
 editor: visual
 ---
 
 <!-- [*Google Scholar Profile.*](https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en) -->
 
-<!-- ## Publications -->
+<!-- ## Conference Publications -->
 
 <!-- *\# Denotes equal contribution.* -->
+
+# Conference Publications
 
 ## 2025
 
@@ -15,10 +17,9 @@ editor: visual
 
 ## 2024
 
-* **Disentangling the Peptide Space: A Contrastive Approach with Wasserstein Autoencoders.** *Mihir Agarwal*, Progyan Das, NeurIPS 2024 Workshop on AI for New Drug Modalities [[OpenReview]](https://openreview.net/forum?id=FKCYEbSaE1)
+* **Disentangling the Peptide Space: A Contrastive Approach with Wasserstein Autoencoders.** *Mihir Agarwal*, Progyan Das, In [NeurIPS 2024 Workshop on AI for New Drug Modalities] (https://neurips.cc/virtual/2024/workshop/84727)
 
 ## 2023
-
 
 * **Spatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes.** *Mihir Agarwal*, Progyan Das, and Udit Bhatia, In [Tackling Climate Change with Machine Learning](https://www.climatechange.ai/events/neurips2023) workshop, NeurIPS 2023 
 
