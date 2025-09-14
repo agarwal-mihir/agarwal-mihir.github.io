@@ -9,14 +9,28 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Publications And Presentations",
     "section": "",
-    "text": "Spatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes. Mihir Agarwal, Progyan Das, and Udit Bhatia, In Tackling Climate Change with Machine Learning workshop, NeurIPS 2023\nLess But Better, Towards better AQ Monitoring by learning Inducing Points for Multi-Task Gaussian Processes. Progyan Das and Mihir Agarwal, accepted in the NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World RealML-2023\nFocus on What’s Important! Inspecting Variational Distributions for Gaussian Processes for better AQ Station Deployment. Progyan Das and Mihir Agarwal, accepted at 2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment CompSust\nConformal Prediction: A Visual Introduction. Mihir Agarwal, Lalit Routhu, Zeel B Patel, Nipun Batra, In VISxAI workshop 2023, IEEE VIS. [URL]"
+    "text": "VeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis. Mihir Agarwal, Zaqi Momin, Kailash Prasad, Joycee Mekie, 2025 IEEE International Symposium on Circuits and Systems (ISCAS) [IEEE]\n\n\n\n\n\nDisentangling the Peptide Space: A Contrastive Approach with Wasserstein Autoencoders. Mihir Agarwal, Progyan Das, In [NeurIPS 2024 Workshop on AI for New Drug Modalities] (https://neurips.cc/virtual/2024/workshop/84727)\n\n\n\n\n\nSpatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes. Mihir Agarwal, Progyan Das, and Udit Bhatia, In Tackling Climate Change with Machine Learning workshop, NeurIPS 2023\nLess But Better, Towards better AQ Monitoring by learning Inducing Points for Multi-Task Gaussian Processes. Progyan Das and Mihir Agarwal, accepted in the NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World RealML-2023\nFocus on What’s Important! Inspecting Variational Distributions for Gaussian Processes for better AQ Station Deployment. Progyan Das and Mihir Agarwal, accepted at 2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment CompSust\nConformal Prediction: A Visual Introduction. Mihir Agarwal, Lalit Routhu, Zeel B Patel, Nipun Batra, In VISxAI workshop 2023, IEEE VIS. [URL]"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
-    "title": "Publications",
+    "title": "Publications And Presentations",
+    "section": "",
+    "text": "VeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis. Mihir Agarwal, Zaqi Momin, Kailash Prasad, Joycee Mekie, 2025 IEEE International Symposium on Circuits and Systems (ISCAS) [IEEE]"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications And Presentations",
+    "section": "",
+    "text": "Disentangling the Peptide Space: A Contrastive Approach with Wasserstein Autoencoders. Mihir Agarwal, Progyan Das, In [NeurIPS 2024 Workshop on AI for New Drug Modalities] (https://neurips.cc/virtual/2024/workshop/84727)"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications And Presentations",
     "section": "",
     "text": "Spatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes. Mihir Agarwal, Progyan Das, and Udit Bhatia, In Tackling Climate Change with Machine Learning workshop, NeurIPS 2023\nLess But Better, Towards better AQ Monitoring by learning Inducing Points for Multi-Task Gaussian Processes. Progyan Das and Mihir Agarwal, accepted in the NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World RealML-2023\nFocus on What’s Important! Inspecting Variational Distributions for Gaussian Processes for better AQ Station Deployment. Progyan Das and Mihir Agarwal, accepted at 2023 NeurIPS Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment CompSust\nConformal Prediction: A Visual Introduction. Mihir Agarwal, Lalit Routhu, Zeel B Patel, Nipun Batra, In VISxAI workshop 2023, IEEE VIS. [URL]"
   },
