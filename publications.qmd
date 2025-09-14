@@ -9,6 +9,14 @@ editor: visual
 
 <!-- *\# Denotes equal contribution.* -->
 
+## 2025
+
+* **VeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis.** *Mihir Agarwal*, Zaqi Momin, Kailash Prasad, Joycee Mekie, 2025 IEEE International Symposium on Circuits and Systems (ISCAS) [[IEEE]](https://ieeexplore.ieee.org/abstract/document/11044004/)
+
+## 2024
+
+* **Disentangling the Peptide Space: A Contrastive Approach with Wasserstein Autoencoders.** *Mihir Agarwal*, Progyan Das, NeurIPS 2024 Workshop on AI for New Drug Modalities [[OpenReview]](https://openreview.net/forum?id=FKCYEbSaE1)
+
 ## 2023
 
 
