@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mihir Agarwal",
-    "section": "",
-    "text": "Mihir Agarwal\nHi! I am Mihir Agarwal, a Undergraduate student in Electrical Engineering, at IIT Gandhinagar.\nI am interested in Probabilistic Machine Learning, Computer Vision and Network Science. My research is also aligned to these fields.\nI am the Technical Coordinator at IIT Gandhinagar, leading the technical activities at my college for the student community. I have also led a team of 200 students for more than a year to organise one of the best cultural fest in Gujarat."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "VeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis. Mihir Agarwal, Zaqi Momin, Kailash Prasad, Joycee Mekie, 2025 IEEE International Symposium on Circuits and Systems (ISCAS) [IEEE]"
+    "text": "Uncertainty Bounds for Anomalous Geomagnetic Storm Forecasting–A Deep Learning Approach. Mihir Agarwal, Progyan Das, Shruhrid Banthia, S. B. Chakrabarty, D. Chakrabarty, 2025 IEEE Space, Aerospace and Defence Conference (SPACE) — Best Paper Award Winner [IEEE]\nVeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis. Mihir Agarwal, Zaqi Momin, Kailash Prasad, Joycee Mekie, 2025 IEEE International Symposium on Circuits and Systems (ISCAS) — Spotlight [IEEE]"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications",
     "section": "",
-    "text": "VeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis. Mihir Agarwal, Zaqi Momin, Kailash Prasad, Joycee Mekie, 2025 IEEE International Symposium on Circuits and Systems (ISCAS) [IEEE]"
+    "text": "Uncertainty Bounds for Anomalous Geomagnetic Storm Forecasting–A Deep Learning Approach. Mihir Agarwal, Progyan Das, Shruhrid Banthia, S. B. Chakrabarty, D. Chakrabarty, 2025 IEEE Space, Aerospace and Defence Conference (SPACE) — Best Paper Award Winner [IEEE]\nVeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis. Mihir Agarwal, Zaqi Momin, Kailash Prasad, Joycee Mekie, 2025 IEEE International Symposium on Circuits and Systems (ISCAS) — Spotlight [IEEE]"
   },
   {
     "objectID": "publications.html#section-1",
@@ -32,6 +25,20 @@
     "href": "publications.html#section-2",
     "title": "Publications",
     "section": "2023",
-    "text": "2023\n\nSpatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes. Mihir Agarwal, Progyan Das, and Udit Bhatia, Tackling Climate Change with Machine Learning workshop, NeurIPS 2023\nLess But Better, Towards better AQ Monitoring by learning Inducing Points for Multi-Task Gaussian Processes. Progyan Das and Mihir Agarwal, NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World RealML-2023\nFocus on What’s Important! Inspecting Variational Distributions for Gaussian Processes for better AQ Station Deployment. Progyan Das and Mihir Agarwal, NeurIPS 2023 Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment CompSust\nConformal Prediction: A Visual Introduction. Mihir Agarwal, Lalit Routhu, Zeel B Patel, Nipun Batra, VISxAI workshop 2023, IEEE VIS [URL]"
+    "text": "2023\n\nSpatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes. Mihir Agarwal, Progyan Das, Udit Bhatia, Tackling Climate Change with Machine Learning workshop, NeurIPS 2023 [arXiv]\nLess But Better, Towards better AQ Monitoring by learning Inducing Points for Multi-Task Gaussian Processes. Progyan Das and Mihir Agarwal, NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World [OpenReview]\nFocus on What’s Important! Inspecting Variational Distributions for Gaussian Processes for better AQ Station Deployment. Progyan Das and Mihir Agarwal, NeurIPS 2023 Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment [OpenReview]\nConformal Prediction: A Visual Introduction. Mihir Agarwal, Lalit Routhu, Zeel B Patel, Nipun Batra, VISxAI workshop 2023, IEEE VIS [URL]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mihir Agarwal",
+    "section": "",
+    "text": "Mihir Agarwal\nHi, I am currently a Research Fellow at Microsoft Research India, where I am currently working in the intersection of Representation Learning and Dense Retrieval under the mentorship of Kirankumar Shiragur, Ankit Garg, and Neeraj Kayal\nPreviously, I completed my B.Tech from the Indian Institute of Technology Gandhinagar in Electrical Engineering with Honors and a Minor in Computer Science and Engineering.\n\nHighlights Timeline\n\n\nJul 2025\nBest Paper Award — IEEE Space, Aerospace and Defence Conference\nRecognized for leading work on uncertainty bounds for anomalous geomagnetic storm forecasting."
+  },
+  {
+    "objectID": "index.html#highlights-timeline",
+    "href": "index.html#highlights-timeline",
+    "title": "Mihir Agarwal",
+    "section": "",
+    "text": "Best Paper Award — IEEE Space, Aerospace and Defence Conference\nRecognized for leading work on uncertainty bounds for anomalous geomagnetic storm forecasting."
   }
 ]

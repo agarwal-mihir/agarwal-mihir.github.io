@@ -5,18 +5,21 @@ editor: visual
 
 ## 2025
 
-* **VeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis.** *Mihir Agarwal*, Zaqi Momin, Kailash Prasad, Joycee Mekie, 2025 IEEE International Symposium on Circuits and Systems (ISCAS) [[IEEE]](https://ieeexplore.ieee.org/abstract/document/11044004/)
+* **Uncertainty Bounds for Anomalous Geomagnetic Storm Forecasting–A Deep Learning Approach.** *Mihir Agarwal*, Progyan Das, Shruhrid Banthia, S. B. Chakrabarty, D. Chakrabarty, 2025 IEEE Space, Aerospace and Defence Conference (SPACE) — **Best Paper Award Winner** [[IEEE]](https://ieeexplore.ieee.org/abstract/document/11171320/)
+
+* **VeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis.** *Mihir Agarwal*, Zaqi Momin, Kailash Prasad, Joycee Mekie, 2025 IEEE International Symposium on Circuits and Systems (ISCAS) — **Spotlight** [[IEEE]](https://ieeexplore.ieee.org/abstract/document/11044004/)
 
 ## 2024
+
 
 * **Disentangling the Peptide Space: A Contrastive Approach with Wasserstein Autoencoders.** *Mihir Agarwal*, Progyan Das, NeurIPS 2024 Workshop on AI for New Drug Modalities [[OpenReview]](https://openreview.net/forum?id=FKCYEbSaE1)
 
 ## 2023
 
-* **Spatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes.** *Mihir Agarwal*, Progyan Das, and Udit Bhatia, Tackling Climate Change with Machine Learning workshop, NeurIPS 2023
+* **Spatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes.** *Mihir Agarwal*, Progyan Das, Udit Bhatia, Tackling Climate Change with Machine Learning workshop, NeurIPS 2023 [[arXiv]](https://arxiv.org/abs/2411.07753)
 
-* **Less But Better, Towards better AQ Monitoring by learning Inducing Points for Multi-Task Gaussian Processes.** Progyan Das and *Mihir Agarwal*, NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World [RealML-2023](https://realworldml.github.io/neurips2023/)
+* **Less But Better, Towards better AQ Monitoring by learning Inducing Points for Multi-Task Gaussian Processes.** Progyan Das and *Mihir Agarwal*, NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World [[OpenReview]](https://openreview.net/forum?id=7juV7SKVvM)
 
-* **Focus on What's Important! Inspecting Variational Distributions for Gaussian Processes for better AQ Station Deployment.** Progyan Das and *Mihir Agarwal*, NeurIPS 2023 Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment [CompSust](https://www.compsust.net/compsust-2023/)
+* **Focus on What's Important! Inspecting Variational Distributions for Gaussian Processes for better AQ Station Deployment.** Progyan Das and *Mihir Agarwal*, NeurIPS 2023 Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment [[OpenReview]](https://openreview.net/forum?id=I1yGbIPGjx)
 
 * **Conformal Prediction: A Visual Introduction.** *Mihir Agarwal*, Lalit Routhu, Zeel B Patel, Nipun Batra, VISxAI workshop 2023, IEEE VIS [[URL]](https://conformal-prediction.streamlit.app/)
