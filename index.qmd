@@ -21,22 +21,15 @@ about:
       href: https://www.linkedin.com/in/mihir-agarwal-33b913188/
 ---
 
-# Mihir Agarwal
 
 Hi, I am currently a Research Fellow at Microsoft Research India, where I am currently working in the intersection of Representation Learning and Dense Retrieval under the mentorship of [Kirankumar Shiragur](https://sites.google.com/view/kiran-shiragur), [Ankit Garg](https://ankit-garg-6.github.io/), and [Neeraj Kayal](https://www.microsoft.com/en-us/research/people/neeraka/)
 
-
 Previously, I completed my B.Tech from the [Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/) in Electrical Engineering with Honors and a Minor in Computer Science and Engineering. 
 
+### News
 
-### Highlights Timeline
-
-::: {.timeline}
-::: {.timeline-item}
-#### Jul 2025
-
-**Best Paper Award — IEEE Space, Aerospace and Defence Conference**  
-Recognized for leading work on uncertainty bounds for anomalous geomagnetic storm forecasting.
-:::
-:::
+<ul class="news-list">
+<li><span class="news-date">Jul 2025:</span> Best Paper Award — IEEE Space, Aerospace and Defence Conference. Recognized for leading work on uncertainty bounds for anomalous geomagnetic storm forecasting.</li>
+<li><span class="news-date">Jul 2025:</span> Joined as a Research Fellow at Microsoft Research India working on Representation Learning and Dense Retrieval.</li>
+</ul>
 

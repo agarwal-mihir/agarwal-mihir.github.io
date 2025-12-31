@@ -3,23 +3,79 @@ title: "Publications"
 editor: visual
 ---
 
+
 ## 2025
 
-* **Uncertainty Bounds for Anomalous Geomagnetic Storm Forecasting–A Deep Learning Approach.** *Mihir Agarwal*, Progyan Das, Shruhrid Banthia, S. B. Chakrabarty, D. Chakrabarty, 2025 IEEE Space, Aerospace and Defence Conference (SPACE) — **Best Paper Award Winner** [[IEEE]](https://ieeexplore.ieee.org/abstract/document/11171320/)
+::: {.pub-card}
+[**Uncertainty Bounds for Anomalous Geomagnetic Storm Forecasting – A Deep Learning Approach**]{.pub-title} [Best Paper Award]{.badge-award}
+[Mihir Agarwal, Progyan Das, Shruhrid Banthia, S. B. Chakrabarty, D. Chakrabarty]{.pub-authors}
+[*2025 IEEE Space, Aerospace and Defence Conference (SPACE)*]{.pub-venue}
 
-* **VeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis.** *Mihir Agarwal*, Zaqi Momin, Kailash Prasad, Joycee Mekie, 2025 IEEE International Symposium on Circuits and Systems (ISCAS) — **Spotlight** [[IEEE]](https://ieeexplore.ieee.org/abstract/document/11044004/)
+::: {.pub-links}
+[IEEE](https://ieeexplore.ieee.org/abstract/document/11171320/){.pub-link-btn}
+:::
+:::
+
+::: {.pub-card}
+[**VeriBench: Benchmarking Large Language Models for Verilog Code Generation and Design Synthesis.**]{.pub-title} [Spotlight]{.badge-award}
+[Mihir Agarwal, Zaqi Momin, Kailash Prasad, Joycee Mekie]{.pub-authors}
+[*2025 IEEE International Symposium on Circuits and Systems (ISCAS) — **Spotlight***]{.pub-venue}
+
+::: {.pub-links}
+[IEEE](https://ieeexplore.ieee.org/abstract/document/11044004/){.pub-link-btn}
+:::
+:::
 
 ## 2024
 
+::: {.pub-card}
+[**Disentangling the Peptide Space: A Contrastive Approach with Wasserstein Autoencoders**]{.pub-title}
+[Mihir Agarwal, Progyan Das]{.pub-authors}
+[*NeurIPS 2024 Workshop on AI for New Drug Modalities*]{.pub-venue}
 
-* **Disentangling the Peptide Space: A Contrastive Approach with Wasserstein Autoencoders.** *Mihir Agarwal*, Progyan Das, NeurIPS 2024 Workshop on AI for New Drug Modalities [[OpenReview]](https://openreview.net/forum?id=FKCYEbSaE1)
+::: {.pub-links}
+[OpenReview](https://openreview.net/forum?id=FKCYEbSaE1/){.pub-link-btn}
+:::
+:::
 
 ## 2023
 
-* **Spatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes.** *Mihir Agarwal*, Progyan Das, Udit Bhatia, Tackling Climate Change with Machine Learning workshop, NeurIPS 2023 [[arXiv]](https://arxiv.org/abs/2411.07753)
+::: {.pub-card}
+[**Spatially Regularized Graph Attention Autoencoder Framework for Detecting Rainfall Extremes**]{.pub-title}
+[Mihir Agarwal, Progyan Das, Udit Bhatia]{.pub-authors}
+[*Tackling Climate Change with Machine Learning workshop, NeurIPS 2023*]{.pub-venue}
 
-* **Less But Better, Towards better AQ Monitoring by learning Inducing Points for Multi-Task Gaussian Processes.** Progyan Das and *Mihir Agarwal*, NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World [[OpenReview]](https://openreview.net/forum?id=7juV7SKVvM)
+::: {.pub-links}
+[arXiv](https://arxiv.org/abs/2411.07753){.pub-link-btn}
+:::
+:::
 
-* **Focus on What's Important! Inspecting Variational Distributions for Gaussian Processes for better AQ Station Deployment.** Progyan Das and *Mihir Agarwal*, NeurIPS 2023 Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment [[OpenReview]](https://openreview.net/forum?id=I1yGbIPGjx)
+::: {.pub-card}
+[**Less But Better, Towards better AQ Monitoring by learning Inducing Points for Multi-Task Gaussian Processes**]{.pub-title}
+[Progyan Das, Mihir Agarwal]{.pub-authors}
+[*NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World*]{.pub-venue}
 
-* **Conformal Prediction: A Visual Introduction.** *Mihir Agarwal*, Lalit Routhu, Zeel B Patel, Nipun Batra, VISxAI workshop 2023, IEEE VIS [[URL]](https://conformal-prediction.streamlit.app/)
+::: {.pub-links}
+[OpenReview](https://openreview.net/forum?id=7juV7SKVvM){.pub-link-btn}
+:::
+:::
+
+::: {.pub-card}
+[**Focus on What's Important! Inspecting Variational Distributions for Gaussian Processes for better AQ Station Deployment**]{.pub-title}
+[Progyan Das, Mihir Agarwal]{.pub-authors}
+[*NeurIPS 2023 Workshop on Computational Sustainability: Pitfalls and Promises from Theory to Deployment*]{.pub-venue}
+
+::: {.pub-links}
+[OpenReview](https://openreview.net/forum?id=I1yGbIPGjx){.pub-link-btn}
+:::
+:::
+
+::: {.pub-card}
+[**Conformal Prediction: A Visual Introduction**]{.pub-title}
+[Mihir Agarwal, Lalit Routhu, Zeel B Patel, Nipun Batra]{.pub-authors}
+[*VISxAI workshop 2023, IEEE VIS*]{.pub-venue}
+
+::: {.pub-links}
+[URL](https://conformal-prediction.streamlit.app/){.pub-link-btn}
+:::
+:::
