@@ -8,6 +8,34 @@ Papers, preprints, and interactive research, with a short introduction to each p
 
 ## 2026 {#year-2026}
 
+::: {.pub-card #linear-corrections-compression}
+<figure class="pub-visual">
+  <img src="images/publications/linear-corrections.svg" width="320" height="210" alt="Concept illustration of document vectors being compressed, followed by a learned linear correction for late-interaction retrieval." loading="lazy" decoding="async">
+  <figcaption>Concept illustration</figcaption>
+</figure>
+
+::: {.pub-info}
+### [Simple Linear Corrections for Compression in Late Interaction](https://arxiv.org/abs/2610.14196) {.pub-title .unlisted}
+
+::: {.pub-authors}
+**Mihir Agarwal**\*, Sabyasachi Basu\*, Viraj Agrawal [· Equal contribution]{.pub-contribution}
+:::
+
+::: {.pub-venue}
+arXiv preprint · 9 October 2026
+:::
+
+::: {.pub-summary}
+We study whether a lightweight scoring correction can recover retrieval quality lost when compressing document vectors in late-interaction models. Distilling the uncompressed model's scores yields a global linear transformation while keeping the encoder and compressor frozen. Experiments with ColBERTv2, Jina v4, and ColPali2 show improvements across text and visual document retrieval, including gains in 154 of 160 in-domain BEIR settings; transfer across datasets is more variable. The correction requires neither encoder retraining nor document recompression.
+:::
+
+::: {.pub-links}
+[Paper](https://arxiv.org/abs/2610.14196){.pub-link-btn}
+[PDF](https://arxiv.org/pdf/2610.14196){.pub-link-btn}
+:::
+:::
+:::
+
 ::: {.pub-card #retrieval-multivectors}
 <figure class="pub-visual">
   <img src="images/publications/multivectors.svg" width="320" height="210" alt="Concept illustration of matching individual query vectors to document vectors." loading="lazy" decoding="async">

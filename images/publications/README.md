@@ -8,6 +8,7 @@ text. No third-party figures are included.
 
 Concepts are grounded in the linked publications:
 
+- `linear-corrections.svg`: https://arxiv.org/abs/2610.14196
 - `multivectors.svg`: https://arxiv.org/abs/2608.21494
 - `single-vector.svg`: https://arxiv.org/abs/2603.29519
 - `ultrasound.svg`: https://doi.org/10.3389/facou.2026.1882624
@@ -20,6 +21,6 @@ Concepts are grounded in the linked publications:
 - `conformal.svg`: https://github.com/agarwal-mihir/Conformal-Prediction
 
 The rainfall workshop paper and its later arXiv version are one record. Related
-air-quality workshop papers retain their separate titles. The two retrieval
-papers are labeled as preprints, and the ultrasound study is described as an
-ex vivo proof of concept.
+air-quality workshop papers retain their separate titles. The retrieval papers
+are labeled as preprints, and the ultrasound study is described as an ex vivo
+proof of concept.

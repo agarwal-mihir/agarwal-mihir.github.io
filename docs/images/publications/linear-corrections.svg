@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="210" viewBox="0 0 320 210" role="img" aria-labelledby="title desc">
+  <title id="title">Linear corrections for compressed retrieval</title>
+  <desc id="desc">Original concept illustration. Document vectors are compressed and transformed by a learned linear correction before late-interaction scoring. This is a schematic, not experimental data or a figure reproduced from the paper.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#aeb9c2"/></marker>
+  </defs>
+  <rect width="320" height="210" rx="12" fill="#fff8f3"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="51" y="33" font-size="12" fill="#343a40">Documents</text>
+    <text x="158" y="33" font-size="12" fill="#343a40">Compressed</text>
+    <text x="266" y="33" font-size="12" fill="#343a40">Corrected</text>
+    <g fill="#f3f5f7" stroke="#d4dbe0" stroke-width="1.5">
+      <rect x="23" y="53" width="24" height="28" rx="6"/><rect x="55" y="53" width="24" height="28" rx="6"/>
+      <rect x="23" y="91" width="24" height="28" rx="6"/><rect x="55" y="91" width="24" height="28" rx="6"/>
+      <rect x="23" y="129" width="24" height="28" rx="6"/><rect x="55" y="129" width="24" height="28" rx="6"/>
+    </g>
+    <g fill="#ffe3d2" stroke="#e6b497" stroke-width="1.5">
+      <rect x="143" y="67" width="30" height="28" rx="6"/><rect x="143" y="115" width="30" height="28" rx="6"/>
+      <rect x="251" y="67" width="30" height="28" rx="6"/><rect x="251" y="115" width="30" height="28" rx="6"/>
+    </g>
+    <g fill="none" stroke="#c34b1b" stroke-width="1.8">
+      <path d="M31 61 L39 73 M63 73 L71 61 M31 99 L39 111 M63 111 L71 99 M31 137 L39 149 M63 149 L71 137"/>
+      <path d="M151 75 L165 87 M151 135 L165 123"/>
+      <path d="M259 88 L273 74 M259 122 L273 136"/>
+    </g>
+    <g fill="none" stroke="#aeb9c2" stroke-width="1.8" marker-end="url(#arrow)">
+      <path d="M86 105 L135 105"/><path d="M180 105 L243 105"/>
+    </g>
+    <text x="111" y="92" font-size="10" fill="#69727b">pool / prune</text>
+    <text x="212" y="88" font-size="16" fill="#c34b1b">M</text>
+    <text x="212" y="127" font-size="10" fill="#69727b">linear map</text>
+    <text x="160" y="187" font-size="12" fill="#69727b">Fewer vectors · Corrected scores</text>
+  </g>
+</svg>
